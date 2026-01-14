@@ -3,6 +3,8 @@
 This repository contains the source code for a modern, performance-focused portfolio website for the artist Diana Page, built with Next.js App Router.
 The public version of this repository intentionally excludes all artwork assets, focusing instead on architecture, UX, performance, and frontend engineering practices.
 
+The site is live at www.dianapage.co.za 
+
 (Source code for the previous version of the site, built using React.js and vanilla CSS, can be viewed [here](https://github.com/MrZedain/DianaPageSite-public-outdated)
 
 
