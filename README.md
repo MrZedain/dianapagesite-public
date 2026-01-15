@@ -1,4 +1,4 @@
-# Diana Page — Portfolio Website (Next.js App Router)
+# Diana Page — Artist Website (Next.js App Router)
 
 This repository contains the source code for a modern, performance-focused portfolio website for the artist Diana Page, built with Next.js App Router.
 The public version of this repository intentionally excludes all artwork assets, focusing instead on architecture, UX, performance, and frontend engineering practices.
@@ -10,7 +10,7 @@ The site is live at www.dianapage.co.za
 
 # Project Overview
 
-A responsive, image-heavy portfolio site designed for showcasing large art collections while maintaining smooth navigation, fast load times, and a refined user experience across devices.
+A responsive, image-heavy art website designed for showcasing large art collections while maintaining smooth navigation, fast load times, and a refined user experience across devices.
 
 ## Key priorities:
 
